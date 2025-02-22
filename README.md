@@ -1,9 +1,9 @@
-<h1>Hi, I'm Mitchell! <br/><a href="https://github.com/mitchelllabuda">Jr. Security Analystr</a>, <a href="https://www.linkedin.com/in/mitchell-labuda-9/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Mitchell! <br/><a href="https://github.com/mitchelllabuda">Jr. Security Analyst</a>, <a href="https://www.linkedin.com/in/mitchell-labuda-9/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure Cloud Cybersecurty Porjects</b>
-  - [Creating a live SOC/ Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a live SOC/ Honeynet in Azure](https://github.com/mitchelllabuda/Cloud-SOC)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
