@@ -14,6 +14,7 @@
 
 - 🔭 I’m currently working on TCM PJPT
 - 🎓 Pursuing BS in Cybersecurity And Compliance at WGU
+- ⭐ Proficient with Azure Active Directory
 - 🌱 I’m currently working on AWS Cloud Practictioner
 - 📫 How to reach me: iamlabuda@gmail.com or 🤳 (910)-528-6344
 - 😄 Pronouns: he/him
